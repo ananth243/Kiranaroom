@@ -1,0 +1,7 @@
+{
+  "food": { "Maggi": { "avail": 4, "Price": 15 } },
+  "toiletteries": {
+    "shampoo": { "avail": 5, "Price": 200 },
+    "soap": { "avail": 20, "Price": 20 }
+  }
+}
